@@ -49,16 +49,6 @@ Interesse principal em construir sistemas eficientes, entender infraestrutura de
 - 🔹 stockinsystem  
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlopesx&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlopesx&layout=compact&theme=tokyonight"/>
-</p>
-
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/carlopesx/  
