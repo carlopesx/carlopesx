@@ -9,12 +9,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Foco-Backend%20%7C%20Redes%20%7C%20Automação-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-blue?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Foco-Backend%20%7C%20Redes%20%7C%20Automação-green?style=for-the-badge"/><br>
   <img src="https://img.shields.io/badge/Linguagens-C%20%7C%20C++%20%7C%20Python%20%7C%20HTML%20%7C%20CSS-orange?style=for-the-badge"/>
 </p>
 
----
 
 ## 🧠 Sobre mim
 
@@ -22,7 +21,6 @@ Estudante de Engenharia de Software com foco em desenvolvimento backend, redes d
 
 Interesse principal em construir sistemas eficientes, entender infraestrutura de rede e desenvolver soluções práticas com código limpo.
 
----
 
 ## ⚙️ Tecnologias
 
@@ -36,7 +34,6 @@ Interesse principal em construir sistemas eficientes, entender infraestrutura de
 
 </p>
 
----
 
 ## 📌 Foco atual
 
@@ -46,17 +43,11 @@ Interesse principal em construir sistemas eficientes, entender infraestrutura de
 - Automação de tarefas e scripts  
 - Desenvolvimento web básico com HTML e CSS  
 
----
 
 ## 📁 Projetos
 
-- 🔹 Sistema de estoque em Python  
-- 🔹 Projetos de automação com scripts  
-- 🔹 Exercícios em C e C++  
-- 🔹 Projetos acadêmicos de redes  
-- 🔹 Páginas simples em HTML e CSS  
+- 🔹 stockinsystem  
 
----
 
 ## 📊 GitHub Stats
 
@@ -68,18 +59,8 @@ Interesse principal em construir sistemas eficientes, entender infraestrutura de
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlopesx&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
 ## 📫 Contato
 
-- LinkedIn: :contentReference[oaicite:0]{index=0}  
-- GitHub: :contentReference[oaicite:1]{index=1}  
+- LinkedIn: www.linkedin.com/in/carlopesx/  
+- GitHub: github.com/carlopesx 
 - Email: vinivhmobile@gmail.com  
-
----
-
-<div align="center">
-
-💡 Código é construção contínua: cada linha ajusta o sistema.
-
-</div>
