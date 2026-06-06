@@ -1,56 +1,61 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# 🚀 Carlos Lopes
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Carlos%20Lopes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Software%20•%20Backend%20•%20Redes%20•%20Automação&descAlignY=55&descSize=16"/>
 
-### Programação • Backend • Redes • Automação
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend+em+formação+🚀;Apaixonado+por+redes+e+automação+⚙️;Código+limpo+e+sistemas+eficientes+💡)](https://git.io/typing-svg)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlopesx/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlopesx)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinivhmobile@gmail.com)
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-blue?style=for-the-badge"/><br>
-  <img src="https://img.shields.io/badge/Foco-Backend%20%7C%20Redes%20%7C%20Automação-green?style=for-the-badge"/><br>
-  <img src="https://img.shields.io/badge/Linguagens-C%20%7C%20C++%20%7C%20Python%20%7C%20HTML%20%7C%20CSS-orange?style=for-the-badge"/>
-</p>
-
+---
 
 ## 🧠 Sobre mim
 
-Estudante de Engenharia de Software com foco em desenvolvimento backend, redes de computadores e automação de processos.
+Sou estudante de **Engenharia de Software** com foco em desenvolvimento backend, redes de computadores e automação de processos.
 
-Interesse principal em construir sistemas eficientes, entender infraestrutura de rede e desenvolver soluções práticas com código limpo.
+Meu objetivo é construir sistemas eficientes, entender profundamente a infraestrutura de rede e desenvolver soluções práticas com código limpo.
 
+---
 
-## ⚙️ Tecnologias
+## 🛠️ Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</p>
+</div>
 
+---
 
-## 📌 Foco atual
+## 🎯 Foco atual
 
-- Programação estruturada e orientação a objetos  
-- Desenvolvimento backend  
-- Redes de computadores (TCP/IP, DNS, HTTP)  
-- Automação de tarefas e scripts  
-- Desenvolvimento web básico com HTML e CSS  
+<div align="center">
 
+| Área | Tópicos |
+|------|---------|
+| 💻 Programação | Estruturada & Orientação a Objetos |
+| 🔧 Backend | APIs, lógica de servidor, bancos de dados |
+| 🌐 Redes | TCP/IP, DNS, HTTP |
+| 🤖 Automação | Scripts e tarefas automatizadas |
+| 🎨 Web | HTML & CSS básico |
+
+</div>
+
+---
 
 ## 📁 Projetos
 
 - 🔹 stockinsystem  
 
+---
 
-## 📫 Contato
-
-- LinkedIn: www.linkedin.com/in/carlopesx/  
-- GitHub: https://github.com/carlopesx
-- Email: vinivhmobile@gmail.com  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
