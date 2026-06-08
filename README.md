@@ -77,7 +77,7 @@ Meu objetivo é construir sistemas eficientes, entender profundamente a infraest
 
 <div align="center">
 
-| Project | Description | Stack | Status |
+| Projeto | Descrição | Tecnologias | Status |
 |---|---|---|---|
 | 🗃️ **stockinsystem** | Sistema de gestão de estoque | `Python` / `Flask` | 🔨 Em andamento |
 
