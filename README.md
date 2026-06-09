@@ -50,8 +50,6 @@ Meu objetivo é construir sistemas eficientes, entender profundamente a infraest
 
 </div>
 
----
-
 ## 📁 Projetos
 
 <div align="center">
@@ -63,8 +61,6 @@ Meu objetivo é construir sistemas eficientes, entender profundamente a infraest
 > *Mais projetos em breve...*
 
 </div>
-
----
 
 ## 📈 GitHub Status
 
