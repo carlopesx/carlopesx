@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlopesx/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlopesx)
 [![GitHub](https://img.shields.io/badge/GitHub-%23161b22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlopesx)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinihmobile@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](vinihmobile@gmail.com)
 
 </div>
 
@@ -52,27 +52,6 @@ Meu objetivo é construir sistemas eficientes, entender profundamente a infraest
 
 ---
 
-</div>
-
----
-
-## 🎯 Foco atual
-
-<div align="center">
-
-| Área | Tópicos |
-|------|---------|
-| 💻 Programação | Estruturada & Orientação a Objetos |
-| 🔧 Backend | APIs, lógica de servidor, bancos de dados |
-| 🌐 Redes | TCP/IP, DNS, HTTP |
-| 🤖 Automação | Scripts e tarefas automatizadas |
-| 🎨 Web | HTML & CSS básico |
-
-</div>
-```
-
----
-
 ## 📁 Projetos
 
 <div align="center">
@@ -87,13 +66,14 @@ Meu objetivo é construir sistemas eficientes, entender profundamente a infraest
 
 ---
 
-## 📈 GitHub status
+## 📈 GitHub Status
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlopesx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&rank_icon=github"/>
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlopesx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=c9d1d9"/>
 
+---
 <br/>
 
 <img width="420" src="https://streak-stats.demolab.com?user=carlopesx&theme=tokyonight&hide_border=true&background=0d1117&stroke=818CF8&ring=818CF8&fire=FF6B6B&currStreakLabel=818CF8&sideLabels=c9d1d9&dates=c9d1d9"/>
